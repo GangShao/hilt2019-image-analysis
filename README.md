@@ -66,7 +66,27 @@ these libraries in the workshop, though please make sure your operating system i
 up-to-date (in particular, you will need macOS 10.13 or 10.14 for the libraries
 to work properly).
 
-## Schedule
+## Schedule — Overview
+
+Our specific pace and topics will adjust given the needs of those in the workshop,
+but here is an overview of what we plan to cover each day:
+
+- **Day 1**: introductions; setting up R; understanding how to organize an image 
+corpus; understand how images are stored digitally; build exploratory plots from
+simple image features; working with FSA-OWI photographs
+- **Day 2**: machine learning terminology; linear regression for image classification;
+penalized regression; applying texture filters; motivation for deep learning; using
+well-known computer vision corpora such as Flowers-128 and ImageNet
+- **Day 3**: setting up python, tensorflow, and keras; building deep learning models
+from scratch; convolutions; transfer learning; embeddings; use small CV datasets for
+datasets from scratch; visualization of wikiart dataset using transfer learning
+- **Day 4**: more visualization techniques; the distant viewing toolkit; working
+with moving images; face detection; applications to various corpora
+
+If there is something particular you would like us to show or would like to make
+sure that we get to, please let us know as soon as possible. 
+
+## Schedule — Details
 
 **Monday, 3 June**
 
