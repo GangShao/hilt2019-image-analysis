@@ -105,6 +105,11 @@ technical and conceptual topics that arise.
 [link](https://link.springer.com/book/10.1007%2F978-3-319-20702-5).
 - Arnold, Taylor, and Lauren Tilton. "Distant viewing: analyzing large visual corpora"
 *Digital Scholarship in the Humanities*. [link](https://doi.org/10.1093/digitalsh/fqz013)
+- Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang,
+Andrej Karpathy, Aditya Khosla, Michael Bernstein, Alexander C. Berg and Li Fei-Fei.
+"ImageNet Large Scale Visual Recognition Challenge". IJCV, 2015. [link](https://arxiv.org/pdf/1409.0575v1.pdf)
+- Wevers, Melvin, and Thomas Smits. "The visual digital turn: Using neural networks to study historical images"
+*Digital Scholarship in the Humanities*. [link](https://doi.org/10.1093/llc/fqy085)
 
 
 
