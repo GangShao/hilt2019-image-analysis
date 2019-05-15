@@ -27,8 +27,8 @@ experience is required.
 
 ## Code of Conduct
 
-Our workshop is dedicated to providing a harassment-free conference experience
-for everyone. We do not tolerate harassment of conference participants in any form.
+Our workshop is dedicated to providing a harassment-free experience
+for everyone. We do not tolerate harassment of participants in any form.
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as
 soon as possible. Harassment and other code of conduct violations reduce the value
 of our event for everyone. We want you to be happy at our event. People like you
