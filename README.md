@@ -52,32 +52,28 @@ If you have any further questions or concerns, please let us know!
 
 ## Software
 
-We will be using a variety of software in this workshop, all of it is free and
-open source. The three main things you will need are:
+We will be using the Python programming language for the workshop, as well as
+several third-party packages. All of it is free and open source. Here is the
+link to the Anaconda version of Python that we suggest you use:
 
-- [The R programming language](https://www.r-project.org/)
-- [The RStudio IDE](https://www.rstudio.com/)
 - [Anaconda Python 3.7](https://www.anaconda.com/)
 
-We will be running deep learning models that are written in Python, but calling
-these from within R. The R programming language provides easier to use mechanisms
-for interactively plotting data and viewing the results. We will help you set-up
-these libraries in the workshop, though please make sure your operating system is
-up-to-date (in particular, you will need macOS 10.13 or 10.14 for the libraries
-to work properly).
+We will help you set-up these libraries in the workshop, though please make sure
+your operating system is up-to-date (in particular, you will need macOS 10.13 or
+10.14 for the libraries to work properly).
 
 ## Schedule — Overview
 
 Our specific pace and topics will adjust given the needs of those in the workshop,
 but here is an overview of what we plan to cover each day:
 
-- **Day 1**: introductions; setting up R; understanding how to organize an image 
+- **Day 1**: introductions; setting up Python; understanding how to organize an image 
 corpus; understand how images are stored digitally; build exploratory plots from
 simple image features; working with FSA-OWI photographs
 - **Day 2**: machine learning terminology; linear regression for image classification;
 penalized regression; applying texture filters; motivation for deep learning; using
 well-known computer vision corpora such as Flowers-128 and ImageNet
-- **Day 3**: setting up python, tensorflow, and keras; building deep learning models
+- **Day 3**: setting up tensorflow, and keras; building deep learning models
 from scratch; convolutions; transfer learning; embeddings; use small CV datasets for
 datasets from scratch; visualization of wikiart dataset using transfer learning
 - **Day 4**: more visualization techniques; the distant viewing toolkit; working
