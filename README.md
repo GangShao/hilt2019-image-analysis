@@ -39,7 +39,7 @@ of the following guidelines throughout the session:
 
 - This is an interactive workshop, and we expect everyone to, as best as possible,
 follow along with the tutorial.
-- At the same time, please try not to work ahead in the tutorial. If you are
+- At the same time, please stay at the same point with us in the tutorial. If you are
 finished with a section ahead of time, you are more than welcome to hack away at our
 code. We find that staying together through the tutorial works best for everyone
 involved.
