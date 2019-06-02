@@ -6,7 +6,7 @@
 
 This repository contains notes, code, and data for our HILT 2019 workshop,
 which runs from 3-7 June on the campus of IUPUI in Indianapolis, IN. Feel
-free to use/share/adopt these notes for other courses. 
+free to use/share/adopt these notes for other courses.
 
 ## Description
 
@@ -67,7 +67,7 @@ your operating system is up-to-date (in particular, you will need macOS 10.13 or
 Our specific pace and topics will adjust given the needs of those in the workshop,
 but here is an overview of what we plan to cover each day:
 
-- **Day 1**: introductions; setting up Python; understanding how to organize an image 
+- **Day 1**: introductions; setting up Python; understanding how to organize an image
 corpus; understand how images are stored digitally; build exploratory plots from
 simple image features; working with FSA-OWI photographs
 - **Day 2**: machine learning terminology; linear regression for image classification;
@@ -80,16 +80,16 @@ datasets from scratch; visualization of wikiart dataset using transfer learning
 with moving images; face detection; applications to various corpora
 
 If there is something particular you would like us to show or would like to make
-sure that we get to, please let us know as soon as possible. 
+sure that we get to, please let us know as soon as possible.
 
 ## Schedule — Details
 
 **Monday, 3 June**
 
-- Session 01 — 09:30-10:45
-- Session 02 — 11:00-12:00
-- Session 03 — 13:30-14:30
-- Session 04 — 14:45-16:30
+- Session 01 — 09:30-10:45 | Introductions and [Set-up]()
+- Session 02 — 11:00-12:00 | [session02-brief-intro-python.ipynb]()
+- Session 03 — 13:30-14:30 | [session03-loading-images.ipynb]()
+- Session 04 — 14:45-16:30 | [session04-extracting-features.ipynb]()
 
 **Tuesday, 4 June**
 
@@ -117,7 +117,7 @@ sure that we get to, please let us know as soon as possible.
 During the workshop, we will construct a bibliography of references for both
 technical and conceptual topics that arise.
 
-- Arnold, Taylor, and Lauren Tilton. *Humanities Data in R*. New York: Springer, 2015. 
+- Arnold, Taylor, and Lauren Tilton. *Humanities Data in R*. New York: Springer, 2015.
 [link](https://link.springer.com/book/10.1007%2F978-3-319-20702-5).
 - Arnold, Taylor, and Lauren Tilton. "Distant viewing: analyzing large visual corpora"
 *Digital Scholarship in the Humanities*. [link](https://doi.org/10.1093/digitalsh/fqz013)
@@ -126,6 +126,3 @@ Andrej Karpathy, Aditya Khosla, Michael Bernstein, Alexander C. Berg and Li Fei-
 "ImageNet Large Scale Visual Recognition Challenge". IJCV, 2015. [link](https://arxiv.org/pdf/1409.0575v1.pdf)
 - Wevers, Melvin, and Thomas Smits. "The visual digital turn: Using neural networks to study historical images"
 *Digital Scholarship in the Humanities*. [link](https://doi.org/10.1093/llc/fqy085)
-
-
-
