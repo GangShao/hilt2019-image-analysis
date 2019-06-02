@@ -48,6 +48,11 @@ code on other's computers. You are more than welcome to explain to your neighbor
 what is going on in their notebook, but we want everyone to feel comfortable working
 with the code themselves.
 
+We often characterize our goals for image analysis as: 
+
+- **Browse/ Exploration**: Using image analysis to open up exploration of a series of images. 
+- **Domain Specific Analysis**: Analyzing a feature or set of features in order to answer a domain specific set of questions (ex. use of color in Film Studies)
+
 If you have any further questions or concerns, please let us know!
 
 ## Software
@@ -111,6 +116,21 @@ sure that we get to, please let us know as soon as possible.
 - Session 14 — 10:45-12:00
 - Session 15 — 13:30-14:30
 - Session 16 — 14:45-16:30
+
+## Exploring Projects
+
+In a group of 3, explore 1-2 of the projects below and answer the following:
+- Identify the aim(s) of the project.
+- Identify the types of image analysis used.
+- What can one learn from the use of image analysis?
+- Could you see the method(s) used being useful for other projects? 
+
+Projects: 
+- Cooper Hewitt: [main site](https://collection.cooperhewitt.org/)
+- Film Colors: [main site]https://filmcolors.org/about/
+- Photogrammar Color Space: [main site](http://photogrammar.yale.edu/) and [Color Space Lab](http://photogrammar.yale.edu/labs/colorspace/)
+- Vogue: [main site](http://dh.library.yale.edu/projects/vogue/), [slice histograms](http://dh.library.yale.edu/projects/vogue/slice_histograms/), and [covers](http://dh.library.yale.edu/projects/vogue/coveraverages/) 
+
 
 ## References
 
