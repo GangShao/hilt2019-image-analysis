@@ -87,9 +87,9 @@ sure that we get to, please let us know as soon as possible.
 **Monday, 3 June**
 
 - Session 01 — 09:30-10:45 | Introductions and Set-up
-- Session 02 — 11:00-12:00 | [session02-brief-intro-python.ipynb.zip](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/nb/session02-brief-intro-python.ipynb)
-- Session 03 — 13:30-14:30 | [session03-loading-images.ipynb.zip](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/nb/session03-loading-images.ipynb), [teapot.jpg](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/images/test/teapot.jpg)
-- Session 04 — 14:45-16:30 | [session04-extracting-features.ipynb.zip](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/nb/session04-extracting-features.ipynb)
+- Session 02 — 11:00-12:00 | [session02-brief-intro-python.ipynb](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/nb/session02-brief-intro-python.ipynb.zip)
+- Session 03 — 13:30-14:30 | [session03-loading-images.ipynb](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/nb/session03-loading-images.ipynb.zip), [teapot.jpg](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/images/test/teapot.jpg)
+- Session 04 — 14:45-16:30 | [session04-extracting-features.ipynb](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/nb/session04-extracting-features.ipynb.zip)
 
 **Tuesday, 4 June**
 
