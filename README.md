@@ -8,6 +8,10 @@ This repository contains notes, code, and data for our HILT 2019 workshop,
 which runs from 3-7 June on the campus of IUPUI in Indianapolis, IN. Feel
 free to use/share/adopt these notes for other courses.
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+---
+
 ## Code of Conduct
 
 Our workshop is dedicated to providing a harassment-free experience
