@@ -8,23 +8,6 @@ This repository contains notes, code, and data for our HILT 2019 workshop,
 which runs from 3-7 June on the campus of IUPUI in Indianapolis, IN. Feel
 free to use/share/adopt these notes for other courses.
 
-## Description
-
-Image Analysis with Deep Learning will examine methods for image analysis
-at scale. Tasks covered include color analysis, object detection, facial
-recognition, image similarity, and image clustering. The course will work
-a variety of visual culture including art, photography, and moving images
-to ask:
-
-- How can we identify similar works of art using image analysis?
-- How can we identify objects in 100,000 photographs?
-- How can we track character’s movements in a sit-com?
-- How has color in film changed over time?
-
-While the course will introduce several out-of-the-box tools, the main
-focus will be on deep learning techniques with Python. No prior programming
-experience is required.
-
 ## Code of Conduct
 
 Our workshop is dedicated to providing a harassment-free experience
@@ -48,10 +31,33 @@ code on other's computers. You are more than welcome to explain to your neighbor
 what is going on in their notebook, but we want everyone to feel comfortable working
 with the code themselves.
 
-We often characterize our goals for image analysis as: 
+## Description
+
+Image Analysis with Deep Learning will examine methods for image analysis
+at scale. Tasks covered include color analysis, object detection, facial
+recognition, image similarity, and image clustering. The course will work
+a variety of visual culture including art, photography, and moving images
+to ask:
+
+- How can we identify similar works of art using image analysis?
+- How can we identify objects in 100,000 photographs?
+- How can we track character’s movements in a sit-com?
+- How has color in film changed over time?
+
+While the course will introduce several out-of-the-box tools, the main
+focus will be on deep learning techniques with Python. No prior programming
+experience is required.
+
+## Goals
+
+There are many reasons that humanists might engage in image analysis.
+We often characterize these into three categories: 
 
 - **Browse/ Exploration**: Using image analysis to open up exploration of a series of images. 
-- **Domain Specific Analysis**: Analyzing a feature or set of features in order to answer a domain specific set of questions (ex. use of color in Film Studies)
+- **Domain Specific Analysis**: Analyzing a feature or set of features in order to answer a
+domain specific set of questions (ex. use of color in Film Studies)
+- **Critical Data Studies**: Many of the applications of large-scale data analysis and
+algorithmic decision making involve the usage of image analysis.
 
 If you have any further questions or concerns, please let us know!
 
@@ -65,7 +71,8 @@ link to the Anaconda version of Python that we suggest you use:
 
 We will help you set-up these libraries in the workshop, though please make sure
 your operating system is up-to-date (in particular, you will need macOS 10.13 or
-10.14 for the libraries to work properly).
+10.14 for the libraries to work properly). If you have a previous version of 
+Anaconda, we generally suggest that you start from scratch.
 
 ## Schedule — Overview
 
@@ -73,11 +80,11 @@ Our specific pace and topics will adjust given the needs of those in the worksho
 but here is an overview of what we plan to cover each day:
 
 - **Day 1**: introductions; setting up Python; understanding how to organize an image
-corpus; understand how images are stored digitally; build exploratory plots from
-simple image features; working with FSA-OWI photographs
-- **Day 2**: machine learning terminology; linear regression for image classification;
-penalized regression; applying texture filters; motivation for deep learning; using
-well-known computer vision corpora such as Flowers-128 and ImageNet
+corpus; understand how images are stored digitally; working with FSA-OWI photographs
+- **Day 2**: build exploratory plots from simple image features;  machine learning terminology;
+linear regression for image classification; penalized regression; applying texture filters;
+motivation for deep learning; using well-known computer vision corpora such as Flowers-128 and
+ImageNet
 - **Day 3**: setting up tensorflow, and keras; building deep learning models
 from scratch; convolutions; transfer learning; embeddings; use small CV datasets for
 datasets from scratch; visualization of wikiart dataset using transfer learning
@@ -120,6 +127,7 @@ sure that we get to, please let us know as soon as possible.
 ## Exploring Projects
 
 In a group of 3, explore 1-2 of the projects below and answer the following:
+
 - Identify the aim(s) of the project.
 - Identify the types of image analysis used.
 - What can one learn from the use of image analysis?
@@ -127,10 +135,9 @@ In a group of 3, explore 1-2 of the projects below and answer the following:
 
 Projects: 
 - Cooper Hewitt: [main site](https://collection.cooperhewitt.org/)
-- Film Colors: [main site]https://filmcolors.org/about/
+- Film Colors: [main site](https://filmcolors.org/about/)
 - Photogrammar Color Space: [main site](http://photogrammar.yale.edu/) and [Color Space Lab](http://photogrammar.yale.edu/labs/colorspace/)
 - Vogue: [main site](http://dh.library.yale.edu/projects/vogue/), [slice histograms](http://dh.library.yale.edu/projects/vogue/slice_histograms/), and [covers](http://dh.library.yale.edu/projects/vogue/coveraverages/) 
-
 
 ## References
 
