@@ -30,10 +30,28 @@ follow along with the tutorial.
 finished with a section ahead of time, you are more than welcome to hack away at our
 code. We find that staying together through the tutorial works best for everyone
 involved.
-- Hands on your own computer. Unless otherwise noted, please refrain from writing
-code on other's computers. You are more than welcome to explain to your neighbors
+- Please only drive your computer. You are more than welcome to explain to your neighbors
 what is going on in their notebook, but we want everyone to feel comfortable working
 with the code themselves.
+
+
+## Community Guidelines
+- Being open minded including leaving room for exploration and creativity. 
+- Generous listening.
+- Make sure to clearly state terms and meanings. 
+- Questions always encouraged!
+- Respectful of the time that it takes to learn different technologies/concepts. 
+- Active listening.
+- Provide help when/if asked. 
+- Aware of the space that we are in and how sound travles. 
+- Side conversations are great over coffee!
+- Offer the benefit of the doubt toward others.
+- Amplifying ideas while giving credit. 
+- Leave space for everyone to participate. 
+- Be mindful of where the group activity is going. 
+- Being patient and flexible in order to understand where everyone is coming from. 
+- Take responsibility for the effects of our actions and words, even if they were unintended. 
+
 
 ## Description
 
