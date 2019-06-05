@@ -36,21 +36,21 @@ with the code themselves.
 
 
 ## Community Guidelines
-- Being open minded including leaving room for exploration and creativity. 
+- Being open minded including leaving room for exploration and creativity.
 - Generous listening.
-- Make sure to clearly state terms and meanings. 
+- Make sure to clearly state terms and meanings.
 - Questions always encouraged!
-- Respectful of the time that it takes to learn different technologies/concepts. 
+- Respectful of the time that it takes to learn different technologies/concepts.
 - Active listening.
-- Provide help when/if asked. 
-- Aware of the space that we are in and how sound travles. 
+- Provide help when/if asked.
+- Aware of the space that we are in and how sound travles.
 - Side conversations are great over coffee!
 - Offer the benefit of the doubt toward others.
-- Amplifying ideas while giving credit. 
-- Leave space for everyone to participate. 
-- Be mindful of where the group activity is going. 
-- Being patient and flexible in order to understand where everyone is coming from. 
-- Take responsibility for the effects of our actions and words, even if they were unintended. 
+- Amplifying ideas while giving credit.
+- Leave space for everyone to participate.
+- Be mindful of where the group activity is going.
+- Being patient and flexible in order to understand where everyone is coming from.
+- Take responsibility for the effects of our actions and words, even if they were unintended.
 
 
 ## Description
@@ -73,9 +73,9 @@ experience is required.
 ## Goals
 
 There are many reasons that humanists might engage in image analysis.
-We often characterize these into three categories: 
+We often characterize these into three categories:
 
-- **Browse/ Exploration**: Using image analysis to open up exploration of a series of images. 
+- **Browse/ Exploration**: Using image analysis to open up exploration of a series of images.
 - **Domain Specific Analysis**: Analyzing a feature or set of features in order to answer a
 domain specific set of questions (ex. use of color in Film Studies)
 - **Critical Data Studies**: Many of the applications of large-scale data analysis and
@@ -93,7 +93,7 @@ link to the Anaconda version of Python that we suggest you use:
 
 We will help you set-up these libraries in the workshop, though please make sure
 your operating system is up-to-date (in particular, you will need macOS 10.13 or
-10.14 for the libraries to work properly). If you have a previous version of 
+10.14 for the libraries to work properly). If you have a previous version of
 Anaconda, we generally suggest that you start from scratch.
 
 ## Schedule — Overview
@@ -134,6 +134,8 @@ sure that we get to, please let us know as soon as possible.
 
 **Wednesday, 5 June**
 
+[wednesday1.zip](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/data/wednesday1.zip)
+
 - Session 09 — 09:00-10:30
 - Session 10 — 10:45-12:00
 - Session 11 — 13:30-14:30
@@ -153,13 +155,13 @@ In a group of 3, explore 1-2 of the projects below and answer the following:
 - Identify the aim(s) of the project.
 - Identify the types of image analysis used.
 - What can one learn from the use of image analysis?
-- Could you see the method(s) used being useful for other projects? 
+- Could you see the method(s) used being useful for other projects?
 
-Projects: 
+Projects:
 - Cooper Hewitt: [main site](https://collection.cooperhewitt.org/)
 - Film Colors: [main site](https://filmcolors.org/about/)
 - Photogrammar Color Space: [main site](http://photogrammar.yale.edu/) and [Color Space Lab](http://photogrammar.yale.edu/labs/colorspace/)
-- Vogue: [main site](http://dh.library.yale.edu/projects/vogue/), [slice histograms](http://dh.library.yale.edu/projects/vogue/slice_histograms/), and [covers](http://dh.library.yale.edu/projects/vogue/coveraverages/) 
+- Vogue: [main site](http://dh.library.yale.edu/projects/vogue/), [slice histograms](http://dh.library.yale.edu/projects/vogue/slice_histograms/), and [covers](http://dh.library.yale.edu/projects/vogue/coveraverages/)
 
 ## References
 
