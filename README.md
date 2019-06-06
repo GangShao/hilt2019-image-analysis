@@ -102,51 +102,23 @@ Our specific pace and topics will adjust given the needs of those in the worksho
 but here is an overview of what we plan to cover each day:
 
 - **Day 1**: introductions; setting up Python; understanding how to organize an image
-corpus; understand how images are stored digitally; working with FSA-OWI photographs
+corpus; understand how images are stored digitally
 - **Day 2**: build exploratory plots from simple image features;  machine learning terminology;
 linear regression for image classification; penalized regression; applying texture filters;
-motivation for deep learning; using well-known computer vision corpora such as Flowers-128 and
-ImageNet
+motivation for deep learning; using well-known computer vision corpora
 - **Day 3**: setting up tensorflow, and keras; building deep learning models
 from scratch; convolutions; transfer learning; embeddings; use small CV datasets for
 datasets from scratch; visualization of wikiart dataset using transfer learning
 - **Day 4**: more visualization techniques; the distant viewing toolkit; working
-with moving images; face detection; applications to various corpora
+with moving images; face detection
 
 If there is something particular you would like us to show or would like to make
 sure that we get to, please let us know as soon as possible.
 
-## Schedule — Details
+## Following along at home
 
-**Monday, 3 June**
-
-- Session 01 — 09:30-10:45 | Introductions and Set-up
-- Session 02 — 11:00-12:00 | [session02-brief-intro-python.ipynb](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/nb/session02-brief-intro-python.ipynb.zip)
-- Session 03 — 13:30-14:30 | [session03-loading-images.ipynb](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/nb/session03-loading-images.ipynb.zip), [teapot.jpg](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/images/test/teapot.jpg)
-- Session 04 — 14:45-16:30 | [session04-extracting-features.ipynb](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/nb/session04-extracting-features.ipynb.zip)
-
-**Tuesday, 4 June**
-
-- Session 05 — 09:00-10:30
-- Session 06 — 10:45-12:00
-- Session 07 — 13:30-14:45
-- Session 08 — 15:00-17:00
-
-**Wednesday, 5 June**
-
-[wednesday1.zip](https://raw.githubusercontent.com/statsmaths/hilt2019-image-analysis/master/data/wednesday1.zip)
-
-- Session 09 — 09:00-10:30
-- Session 10 — 10:45-12:00
-- Session 11 — 13:30-14:30
-- Session 12 — 14:45-16:30
-
-**Thursday, 6 June**
-
-- Session 13 — 09:00-10:30
-- Session 14 — 10:45-12:00
-- Session 15 — 13:30-14:30
-- Session 16 — 14:45-16:30
+If you would like to follow these notes on your own, start by cloning the repository
+or downloading the notes as a zip file (see the green "Clone or download button" above).
 
 ## Exploring Projects
 
